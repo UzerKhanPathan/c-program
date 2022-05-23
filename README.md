@@ -1,2 +1,2 @@
 # c-program
-demo using c 
+demo usiing c
